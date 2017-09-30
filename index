@@ -12,14 +12,14 @@
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body> 
+<img src="img/logo1.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
+</div>
 <div class="container">
   <div class="jumbotron">
     <h1>Ninja Cafe</h1> 
     <p>Welcome to our website</p> 
   </div>
-  <p></p> 
-  <p></p> 
 </div>
 
 <div class="container">
