@@ -1,0 +1,21 @@
+.left {
+	position: relative;
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+	width: 13%;
+	height: 1000px;
+	background-color: #DC143C;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 10px;
+	margin-right: 30px;
+	width: 80%;
+	height: 1000px;
+	background-color: #DADADA;
+	margin-bottom: 10px;
+}
