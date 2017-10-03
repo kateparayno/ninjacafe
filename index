@@ -13,10 +13,11 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body> 
-<img src="img/logo1.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
-</div>
+
+<!--<img src="img/logo2.jpg" class="img-circle" alt="Cinque Terre" width="310" height="245">-->
 <div class="container">
   <div class="jumbotron">
+  <img src="img/logo2.jpg" class="img-circle" alt="Cinque Terre" width="310" height="245">
     <h1>Ninja Cafe</h1> 
     <p>Welcome to our website</p> 
   </div>
